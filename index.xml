@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio Website on Luka Filipović</title>
+    <link>https://filipos27.github.io/luka_portfolio/</link>
+    <description>Recent content in Data Science Portfolio Website on Luka Filipović</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filipos27.github.io/luka_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VIII: Fuel consumption project</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-8/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-8/</guid>
+      <description>Created a model that estimates fuel consumption, (MSE ~ 0,61 l/kmh). Scraped almost 15 000 cars and their specification Analyzed parameters that affects on fuel consumption using pandas Visualize fuel consumption based on car specification using matplotlib and seaborn. Created linear model with Tensorflow.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Amazon book review</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-6/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-6/</guid>
+      <description>Analyzed positive and negative book reviews, using Natural Proccessing Language, so customers could better understand what can they expect from the book and so the sellers could try to improve their products and adapt to customers preferences.
+ Scraped over 250 reviews of book from Amazon.com using python and selenium Analyzed frequent and keywords from positive and negative reviews Used NLP for analyzing reviews (NLTK library)    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Estimate apartments price in Zagreb</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-1/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-1/</guid>
+      <description>Created a model that estimates apartment price in Zagreb, Croatia (RMSE ~ 35 000 €) to help investors decide if building apartment on certain location would be profitable. Scraped over 3000 apartment locations,prices,square meter price,living area etc from crozilla using python and selenium Analyze apartment prices based on location Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project V: Time Series: Tesla Stock price</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-7-copy/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-7-copy/</guid>
+      <description>Analyzed closing stock prices of Tesla to give better understanding od stock prices and to see how stock prices changed over day,month or year. Downloaded Tesla stock price from Yahoo finance using python and yfinance Analyzed closing prices by,hours,days,month and year using pandas Visualize closing prices using matplotlib.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Amazon stock price prediction</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-2-copy/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-2-copy/</guid>
+      <description>Created a model that predicts stock prices of Amazon (RMSE ~ $ 6 ) to help people decide if buying a stock would be profitable. Download Amazon stock data from Yahoo finance using python and yfinance Analyze close prices by date Using Long Short Term Memory (LSTM) for predicting closing prices    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Bank customer segmentation</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-5/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-5/</guid>
+      <description>Grouped bank customers based on their annual income and average spending on credit cards per month. Downloaded &amp;ldquo;Bank_Personal_Loan_Modelling&amp;rdquo; csv file from world of data Cleaning and exploring dataset using pandas,visualize data using matplotlib and sebaborn Used K-Means for clustering customers based on income and average spending on credit cards per month    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project II: Celebrity image classification</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-4/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-4/</guid>
+      <description>Created a model that recognize face,with 85.33 % accuracy, of certain celebrity. Downloaded over 50 pictures for each celebrity (overall 5) using Fatkun Batch Analyzing,preparing images using cv2,matplotlib and cascade classifer for eyes and face. Optimized SVM, Logistic Regression, and Random Forest using GridsearchCV to reach the best model.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: Bank customer churn</title>
+      <link>https://filipos27.github.io/luka_portfolio/post/chapter-3/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/post/chapter-3/</guid>
+      <description>Created a model that predicts whether will customer leave the bank or not. Downloaded &amp;ldquo;Churn-Modelling&amp;rdquo; csv file from data world Analyzed what are reasons for leaving or staying, analyzing customers who left or stayed based on their balance,tenure etc. Balanced training target set with SMOTE. Used RandomForrest and Artificial Neural Network for classification.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://filipos27.github.io/luka_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filipos27.github.io/luka_portfolio/contact/</guid>
+      <description>My social platforms and contacts!
+   Platform URL     LinkedIn: https://www.linkedin.com/in/luka-filipovi%C4%87-81629a205/   GitHub: https://github.com/Filipos27   E-mail: luka_filip93@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
